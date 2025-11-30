@@ -1,0 +1,5 @@
+flask
+pylint
+transformers
+torch
+optimum[openvino]
